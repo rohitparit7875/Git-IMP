@@ -1,0 +1,8 @@
+git reset --soft HEAD~1
+this command is used to undo the last command
+
+git reset HEAD~1
+this command is used to undo and unstagfile
+
+git revert <commit-id>
+this creates undo file undoes previous command
