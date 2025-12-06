@@ -1,0 +1,9 @@
+git cherry-pick <commit-hash>
+copy abhi to commit from one branch to another
+git rebase main
+are writing the commit history 
+git rebase -i HEAD~5
+is writing the commit in interactive mode
+remove the only images 
+git remote prune origin
+git commit --amend
