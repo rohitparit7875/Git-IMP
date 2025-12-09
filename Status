@@ -1,0 +1,6 @@
+6. How do you check the status of your files?
+
+git status – shows modified, staged, or untracked files.
+
+
+---
