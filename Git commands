@@ -1,0 +1,92 @@
+Here are the most important and commonly used Git commands, grouped by purpose and easy to memorize:
+
+
+---
+
+🔥 Basic Git Commands
+
+Command	Description
+
+git init	Initialize a new Git repository
+git clone <repo-url>	Copy/download a remote repository
+git status	Check file changes in working directory
+git add <file>	Stage a specific file
+git add .	Stage all files
+git commit -m "message"	Commit staged changes
+git log	View commit history
+git diff	Show changes not staged
+
+
+
+---
+
+🔁 Branching & Merging
+
+Command	Description
+
+git branch	List all branches
+git branch <name>	Create a new branch
+git checkout <branch>	Switch to a branch
+git checkout -b <branch>	Create + switch to new branch
+git merge <branch>	Merge branch into current branch
+git branch -d <name>	Delete a branch
+
+
+
+---
+
+⬆️ Push & Pull
+
+Command	Description
+
+git remote -v	Show remote URLs
+git push	Push changes to remote repo
+git push -u origin <branch>	Push new branch
+git pull	Fetch + merge from remote
+git fetch	Only download changes (no merge)
+
+
+
+---
+
+🛠️ Undo / Fix Mistakes
+
+Command	Description
+
+git restore <file>	Restore unstaged changes
+git restore --staged <file>	Unstage a file
+git reset --hard	Reset everything to last commit
+git reset --soft HEAD~1	Undo last commit but keep changes
+git revert <commit-id>	Undo a commit safely (creates new commit)
+
+
+
+---
+
+🌐 Stashing
+
+Command	Description
+
+git stash	Save changes temporarily
+git stash pop	Restore stashed changes
+git stash list	Show all stashes
+
+
+
+---
+
+📦 Tagging
+
+Command	Description
+
+git tag	List all tags
+git tag <tagname>	Create a tag
+git push origin <tag>	Push tag to remote
+
+
+
+---
+
+If you want, I can also give you: ✅  Git interview questions
+✅  Git workflow for DevOps
+✅  Confusing Git commands (advanced) is 
