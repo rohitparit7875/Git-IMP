@@ -1,0 +1,5 @@
+4. What is the staging area?
+
+It is a place where Git tracks files before committing.
+You add files using git add → they go to the staging area.
+
