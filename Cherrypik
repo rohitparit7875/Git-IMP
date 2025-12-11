@@ -1,0 +1,6 @@
+git cherry-pick <commit-id>
+You want only one specific commit, not full merge.
+
+You fixed a bug on dev and want same fix in main.
+
+You added a feature but need to move only one commit to another branch
