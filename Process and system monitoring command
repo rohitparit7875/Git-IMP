@@ -1,0 +1,17 @@
+5️⃣ Process & System Monitoring Commands
+
+Used for troubleshooting production issues.
+
+ps – process status
+
+top / htop – live monitoring
+
+uptime – system load
+
+free -m – memory usage
+
+vmstat – system stats
+
+kill / kill -9 – stop process
+
+nice / renice – priority
