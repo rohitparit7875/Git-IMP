@@ -1,0 +1,21 @@
+2️⃣ File Viewing & Editing Commands
+
+Used for checking logs, configs, pipeline outputs.
+
+cat – view file
+
+less – scroll file
+
+more – paged view
+
+head – first lines
+
+tail – last lines
+
+tail -f – live log monitoring
+
+vi / vim – edit file
+
+nano – editor
+
+
