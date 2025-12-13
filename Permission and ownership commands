@@ -1,0 +1,13 @@
+3️⃣ Permission & Ownership Commands
+
+Very common in server & CI/CD pipelines.
+
+chmod – change permissions
+
+chown – change owner
+
+chgrp – change group
+
+umask – default permission
+
+
