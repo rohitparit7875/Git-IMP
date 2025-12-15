@@ -1,0 +1,12 @@
+git --version              # Check git version
+git config --global user.name "Your Name"
+git config --global user.email "you@email.com"
+
+git init                   # Initialize a repository
+git clone <repo_url>       # Clone GitHub repository
+git status                 # Check repo status
+git add <file>             # Stage file
+git add .                  # Stage all changes
+git commit -m "message"    # Commit changes
+git push                   # Push to GitHub
+git pull                   # Pull latest changes
