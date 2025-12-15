@@ -1,0 +1,4 @@
+git remote -v              # View remote repo
+git remote add origin URL  # Add GitHub repo
+git push -u origin main    # First push
+git pull origin main       # Pull from main
