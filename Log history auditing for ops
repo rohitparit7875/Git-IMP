@@ -1,0 +1,4 @@
+git log                    # Commit history
+git log --oneline          # Short log
+git show <commit_id>       # View commit details
+git diff                   # Compare changes
