@@ -1,0 +1,6 @@
+# Clone the Linux kernel source
+git clone https://github.com/torvalds/linux.git
+cd linux
+
+# View commit history
+git log
