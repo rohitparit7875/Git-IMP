@@ -1,0 +1,6 @@
+whoami            # Current user
+who               # Logged-in users
+id username       # User ID info
+passwd username   # Change password
+chmod 755 file    # Change permissions
+chown user:group file
