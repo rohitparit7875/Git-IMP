@@ -1,0 +1,7 @@
+ls -l             # List files
+pwd               # Current directory
+cd /path          # Change directory
+cp file1 file2    # Copy file
+mv file1 file2    # Move / rename
+rm -rf dir        # Delete directory
+find / -name file # Find file
