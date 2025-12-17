@@ -1,0 +1,6 @@
+uname -a          # Full system information
+uname -r          # Kernel version
+hostnamectl       # Hostname & OS details
+lsb_release -a    # OS version (Ubuntu)
+uptime            # System running time
+date              # Current date & time
