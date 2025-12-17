@@ -1,0 +1,5 @@
+df -h             # Disk usage
+du -sh folder     # Folder size
+free -h           # RAM usage
+lsblk             # Disk details
+mount | grep sda  # Mounted disks
