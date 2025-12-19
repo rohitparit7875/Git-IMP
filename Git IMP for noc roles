@@ -1,0 +1,7 @@
+uptime              # System running time & load
+top / htop          # Real-time CPU & memory usage
+vmstat              # Memory statistics
+free -h             # RAM usage
+df -h               # Disk usage
+du -sh /path        # Directory size
+iostat              # Disk I/O
