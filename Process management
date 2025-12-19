@@ -1,0 +1,5 @@
+ps -ef              # List all processes
+ps aux | grep nginx # Check specific process
+kill PID            # Kill process
+kill -9 PID         # Force kill
+nice / renice       # Change process priority
