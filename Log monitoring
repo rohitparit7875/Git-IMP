@@ -1,0 +1,5 @@
+tail -f /var/log/messages
+tail -f /var/log/syslog
+less /var/log/auth.log
+journalctl -xe
+journalctl -u nginx
