@@ -1,0 +1,6 @@
+whoami
+who
+id username
+useradd user
+passwd user
+usermod -aG sudo user
