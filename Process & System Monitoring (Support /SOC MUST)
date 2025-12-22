@@ -1,0 +1,7 @@
+top          # live system usage
+htop         # advanced (if installed)
+ps -ef       # all running processes
+ps aux | grep nginx
+kill PID     # kill process
+kill -9 PID  # force kill ⚠️
+uptime       # system running time
