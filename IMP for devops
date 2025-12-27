@@ -1,0 +1,5 @@
+git branch             # List branches
+git branch dev         # Create branch
+git checkout dev       # Switch branch
+git checkout -b feature-login  # Create + switch
+git branch -d dev      # Delete branch
