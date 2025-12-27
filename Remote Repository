@@ -1,0 +1,5 @@
+git remote -v               # View remote URLs
+git remote add origin URL   # Add remote repo
+git push origin main        # Push code
+git pull origin main        # Pull latest code
+git fetch                   # Fetch updates
