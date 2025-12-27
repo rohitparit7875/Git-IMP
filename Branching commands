@@ -1,0 +1,5 @@
+git branch                  # List branches
+git branch branch_name      # Create branch
+git checkout branch_name   # Switch branch
+git checkout -b new_branch # Create + switch
+git switch branch_name     # New way to switch branch
