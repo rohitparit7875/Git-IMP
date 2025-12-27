@@ -1,0 +1,2 @@
+git merge dev          # Merge branch
+git rebase main        # Rebase current branch
