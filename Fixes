@@ -1,0 +1,2 @@
+git restore file.txt            # Discard changes
+git restore --staged file.txt   # Unstage file
