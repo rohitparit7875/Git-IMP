@@ -1,0 +1,4 @@
+git checkout feature-branch
+git rebase main
+
+👉 Before pushing a feature branch, you rebase it on main to keep history clean.
