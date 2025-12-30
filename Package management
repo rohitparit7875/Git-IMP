@@ -1,0 +1,4 @@
+Package Management (Ubuntu)
+apt update – update repo
+apt install pkg – install package
+apt remove pkg – remove package
