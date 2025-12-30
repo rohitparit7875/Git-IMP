@@ -1,0 +1,3 @@
+git rebase main
+
+This command is used to rewrite the commit history
