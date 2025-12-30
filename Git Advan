@@ -1,0 +1,11 @@
+ git cherry-pick
+
+Purpose: Apply a specific commit from another branch
+
+git cherry-pick <commit-hash>
+
+Why it’s advanced
+
+Selectively moves commits
+
+Avoids merging the whole branch
