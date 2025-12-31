@@ -1,0 +1,9 @@
+ip a
+ip route
+ping google.com
+curl http://localhost:8080
+wget url
+netstat -tulnp
+ss -tulnp
+nslookup domain.com
+dig domain.com
