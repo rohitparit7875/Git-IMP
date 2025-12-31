@@ -1,0 +1,7 @@
+ps aux
+top / htop
+kill -9 PID
+uptime
+free -h
+df -h
+du -sh *
