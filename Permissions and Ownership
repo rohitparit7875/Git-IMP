@@ -1,0 +1,4 @@
+chmod 755 file
+chmod +x script.sh
+chown user:group file
+umask
