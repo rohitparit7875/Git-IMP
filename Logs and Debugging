@@ -1,0 +1,5 @@
+cat file.log
+less file.log
+tail -f app.log
+grep "ERROR" app.log
+journalctl -u service
